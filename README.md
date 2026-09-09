@@ -242,5 +242,5 @@ Dampak bisnis yang diharapkan dari proyek ini adalah membantu bank untuk:
 
 * **Team:** Gamma Group
 * **Name:** Mika Mahaputra, Hane Andreanu, Yoanita Dwi Harlandi
-* **Email:** mikamahaputra@gmail.com, hanedewa228@gmail.com
+* **Email:** mikamahaputra@gmail.com, hanedewa228@gmail.com, nitanitaharlandi@gmail.com
 * **Github:** [Mika Mahaputra](https://github.com/MikaMahaputra) , [Hane Andreanu](https://github.com/haneandreanu)
